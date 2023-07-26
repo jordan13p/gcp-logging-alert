@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+logs
+.idea
+target
+.DS_Store
+*.iml
