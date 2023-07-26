@@ -7,18 +7,22 @@
 ### 一般 Error Log
 
 - Discord
+
   ![logging_alert_demo1](https://imgur.com/PYPZCmT.png)
 
 - Telegram
+
   ![logging_alert_demo2](https://imgur.com/9dUNUU3.png)
 
 
 ### 計數 Error Log
 
 - Discord
+
   ![logging_alert_counts_demo1](https://imgur.com/7RJrnuI.png)
 
 - Telegram
+
   ![logging_alert_counts_demo2](https://imgur.com/QFP8Zit.png)
 
 ## 資源概覽
